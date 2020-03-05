@@ -6,4 +6,4 @@
 
 > [各种canvas背景](https://github.com/wtfyan/personal/issues/3)
 
-> [正则大全](https://github.com/wtfyan/personal/issues/3)
+> [正则大全](https://github.com/wtfyan/personal/issues/4)
